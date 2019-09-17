@@ -1,2 +1,2 @@
-# bloodyboriscom.github.io
-Website: Bloody Boris (.com)
+# Web page for https://bloodyboris.com
+Bloody Boris (.com edition)
